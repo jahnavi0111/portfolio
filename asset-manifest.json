@@ -1,0 +1,24 @@
+{
+  "files": {
+    "main.css": "/portfolio/static/css/main.9ca53df4.css",
+    "main.js": "/portfolio/static/js/main.5ea60619.js",
+    "static/media/srp.png": "/portfolio/static/media/srp.fb6f7c45a9e632c73334.png",
+    "static/media/dbmspbl.png": "/portfolio/static/media/dbmspbl.c04d8398fc506c9eb547.png",
+    "static/media/majorpro.png": "/portfolio/static/media/majorpro.aacd7755d58a9bcf4353.png",
+    "static/media/minipro.png": "/portfolio/static/media/minipro.e45fe881ab18ca6efc0e.png",
+    "static/media/JavaScript.jpg": "/portfolio/static/media/JavaScript.7a12c6b0d647c1425572.jpg",
+    "static/media/Java.jpg": "/portfolio/static/media/Java.32d5469aaf071487dbe3.jpg",
+    "static/media/C.jpg": "/portfolio/static/media/C.d6ec7da117dd06fbe544.jpg",
+    "static/media/Css.jpg": "/portfolio/static/media/Css.c1f2a877137bef640aaa.jpg",
+    "static/media/Html.jpg": "/portfolio/static/media/Html.d7ec524671ff351b7794.jpg",
+    "static/media/MySql.jpg": "/portfolio/static/media/MySql.2d6e4d3de3e9bc8825f0.jpg",
+    "static/media/Python.jpg": "/portfolio/static/media/Python.e7e3490e5ef61c9c1514.jpg",
+    "index.html": "/portfolio/index.html",
+    "main.9ca53df4.css.map": "/portfolio/static/css/main.9ca53df4.css.map",
+    "main.5ea60619.js.map": "/portfolio/static/js/main.5ea60619.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.9ca53df4.css",
+    "static/js/main.5ea60619.js"
+  ]
+}
